@@ -1,6 +1,6 @@
 /*
   X-Shared-Header: Site B /*
   X-Site-B-Generic: true
-/b*
-  X-Shared-Header: Site B /b*
-  X-Site-B-Specific: true
+# /b*
+#   X-Shared-Header: Site B /b*
+#   X-Site-B-Specific: true
